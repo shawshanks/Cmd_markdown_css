@@ -11,6 +11,7 @@ h1 {
 font-size: 2.2em;
 font-weight: 700;
 line-height: 1.1;
+color:#Chocolate;
 
 padding-top: 16px;
 margin-bottom: 4px;
