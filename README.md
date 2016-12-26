@@ -7,5 +7,4 @@
 ##2.效果图
 ![ ](https://github.com/shawshanks/Cmd_markdown_css/blob/master/Cmd%20markdown%20%E6%9C%80%E7%BB%88%E6%95%88%E6%9E%9C%E5%9B%BE1.png)
 
-##3.css
-*Cmd markdown css确定版*即为css配置文件.
+##3. 使用方法
