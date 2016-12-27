@@ -7,4 +7,6 @@
 ##2.效果图
 ![ ](https://github.com/shawshanks/Cmd_markdown_css/blob/master/Cmd%20markdown%20%E6%9C%80%E7%BB%88%E6%95%88%E6%9E%9C%E5%9B%BE1.png)
 
-##3. 使用方法将文件中的内容拷贝到
+##3.使用方法
+ 
+ 复制文件中的内容, 粘贴至Cmd作业部落中的**自定义样式**中的**自定义css**中.
